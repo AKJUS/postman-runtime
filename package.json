@@ -95,7 +95,7 @@
     "shelljs": "^0.8.5",
     "sinon": "^18.0.0",
     "teleport-javascript": "^1.0.0",
-    "terser": "^5.31.3",
+    "terser": "^5.37.0",
     "tmp": "^0.2.3",
     "webpack": "^5.93.0",
     "yankee": "^1.0.8"
